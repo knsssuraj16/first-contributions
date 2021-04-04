@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
+- [Knss suraj](https://github.com/knsssuraj16)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
